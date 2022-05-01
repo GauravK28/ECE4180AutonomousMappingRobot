@@ -1,8 +1,8 @@
 # ECE4180AutonomousMappingRobot
 Team: Gaurav Krishnan and Auveed Rokhsaz
 
-![](res/robot.png)
-![](res/sensorview.png)
+![](res/robot.jpg)
+![](res/sensorview.jpg)
 
 ## Description
 This project is an autonomous robot that maps its environmnent. The robot autonomously moves using collision detection with the Sonar and the LIDAR. It stochastically decides its next direction. The LIDAR distance data along with the robot pose is used to create a point cloud map.
