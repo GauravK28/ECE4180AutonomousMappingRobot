@@ -25,7 +25,7 @@ This project is an autonomous robot that maps its environmnent. The robot autono
 
 
 ## Pin Setup
-![](res/4180MappingRobotSchematic.jpg)
+![](res/4180MappingRobotSchematic.png)
 - Note: There are THREE 5V lines (the rechargeable battery pack, the battery pack, and the mbed 5V line)
 
 ## Software Overview
