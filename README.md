@@ -34,6 +34,7 @@ The mbed controls the motors, sensors, and data distrubution. Then an external c
 #### mbed
 - Controls the motors
 - Uses the sonar and LIDAR to avoid collisions
+- Every 12 seconds the robot performs a full rotation to gather data since the lidar unidirectional
 - Reads in sensor data (LIDAR, hall effect encoders, IMU) and calculates the robot's pose
 - Sends the LIDAR mapping data over bluetooth to the Bluefruit app
 #### Mobile Device
