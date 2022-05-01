@@ -25,7 +25,7 @@ This project is an autonomous robot that maps its environmnent. The robot autono
 
 
 ## Pin Setup
-
+![](res/4180MappingRobotSchematic.jpg)
 - Note: There are THREE 5V lines (the rechargeable battery pack, the battery pack, and the mbed 5V line)
 
 ## Software Overview
@@ -59,3 +59,6 @@ The project can then be compiled using either of the above compilers and then do
 #### Python Script
 - The Python script can be ran through Google Collab
 - If it needs to be ran locally, then Matplotlib and Python will need to be installed
+
+## Demo Video
+
