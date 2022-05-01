@@ -9,9 +9,12 @@ Original file is located at
 
 import matplotlib.pyplot as plt
 
-lines = []
-with open('text-3E2FA587C407-1.txt') as f:
-    lines = f.readlines()
+def openFile(filename):
+  with open(filename) as f:
+    return f.readlines()
+
+
+lines = openFile('text-3E2FA587C407-1.txt')
 
 pairs = []
 for i, line in enumerate(lines):
