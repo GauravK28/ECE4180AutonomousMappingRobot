@@ -62,3 +62,9 @@ The project can then be compiled using either of the above compilers and then do
 
 ## Demo Video
 [https://youtu.be/Zv56OlEs6xE](https://youtu.be/Zv56OlEs6xE)
+[Presentation Slides](https://docs.google.com/presentation/d/1VSTJImyKf1XH3ImKL-f7cBEPrD-M7PTjvLKUh0W3dwo/edit?usp=sharing)
+
+## Results
+![Environment](res/environment.jpg)
+![Resulting Environment Map](res/map.JPEG)
+
