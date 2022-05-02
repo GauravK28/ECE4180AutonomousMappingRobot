@@ -48,6 +48,7 @@ The mbed controls the motors, sensors, and data distrubution. Then an external c
 ## Software Setup
 #### mbed
 The following libraries are required for the project and can be added through the ARM mbed online compiler or Keil Studio Cloud:
+
 	- RTOS
 	- LSM9DS1 IMU Library
 	- Motor Library
@@ -62,6 +63,7 @@ The project can then be compiled using either of the above compilers and then do
 
 ## Demo Video
 [https://youtu.be/Zv56OlEs6xE](https://youtu.be/Zv56OlEs6xE)
+
 [Presentation Slides](https://docs.google.com/presentation/d/1VSTJImyKf1XH3ImKL-f7cBEPrD-M7PTjvLKUh0W3dwo/edit?usp=sharing)
 
 ## Results
